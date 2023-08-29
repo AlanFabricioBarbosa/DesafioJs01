@@ -97,7 +97,7 @@ console.log("12 - Adicionando dois novos itens no final do array")
 
 items.shift()
 console.log("13 - Removendo o primeiro array dos itens")
-console.table(items)
+console.log(items)
 
 //14 - Utilize um método para organizar em ordem crescente o seguinte array: let numbers = [7,5,6,3,8,9,2,1,4]
 let numbers = [7,5,6,3,8,9,2,1,4]
@@ -105,7 +105,7 @@ let numbers = [7,5,6,3,8,9,2,1,4]
 numbers.sort()
 console.log("14 - Organizando o array numbers em ordem numérica")
 
-console.table(numbers)
+console.log(numbers)
 
 
 //15 - Crie um objeto que receba ao menos três propriedades sobre você.
@@ -135,7 +135,7 @@ console.log("17 - Removendo uma propriedade do objeto sobre mim (age)")
 
 //18 - Mostre no console todas as propriedades desse objeto.
 console.log("18 - Mostrando o objeto no console")
-console.table(aboutMeObject)
+console.log(aboutMeObject)
 
 //19 - Crie um array  chamado "cadastro" contendo ao menos 5 objetos. Cada objeto deve receber as seguintes propriedades: nome,  idade,  telefone, amigos.Na propriedade amigos, adicione ao menos 4 amigos.
 
@@ -198,7 +198,7 @@ let cadastre = [
 ]
 
 console.log("19 - Obejeto cadastro")
-console.table(cadastre)
+console.log(cadastre)
 
 
 //20 - Mostre no console o nome de um amigo de cada lista.
