@@ -37,7 +37,7 @@ main {
     width: 85vw;
 }
 
-.container-list ul {
+.container-list ol {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -53,6 +53,7 @@ main {
     border-radius: 15px;
     padding: 10px;
     box-sizing: border-box;
+    box-shadow: 20px 20px 50px #FFC720;
 }
 
 .main-paragraph {
