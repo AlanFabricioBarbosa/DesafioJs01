@@ -62,7 +62,6 @@ console.log(threefold(5))
 function trueOrFalse(params) {
     return params == true ? console.log("08 - Essa variável é true (verdadeira)!!") : console.log("08 - Essa variável é false (falsa)!!")
 
-    // return chechking
 }
 
 trueOrFalse(true)
